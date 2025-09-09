@@ -1,0 +1,11 @@
+# check what changed
+git status  
+
+# add the whole folder
+git add SQL  
+
+# commit with a clear message
+git commit -m "SQL practice"
+
+# push to GitHub
+git push origin main
